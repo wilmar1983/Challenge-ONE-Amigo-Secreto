@@ -1,5 +1,7 @@
 🎁 Challenge Amigo Secreto
 
+![imgch](https://github.com/user-attachments/assets/062d546e-98da-4e9e-ad15-2106e89c64a2)
+
 
 *📖 Descripción del Proyecto
 
